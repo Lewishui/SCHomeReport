@@ -1,0 +1,5 @@
+C:\mysteap\work_office\ProjectOut\住宅报告工具升级\SCHomeReport\Home.DB\bin\Debug\Home.DB.dll
+C:\mysteap\work_office\ProjectOut\住宅报告工具升级\SCHomeReport\Home.DB\bin\Debug\Home.DB.pdb
+C:\mysteap\work_office\ProjectOut\住宅报告工具升级\SCHomeReport\Home.DB\obj\Debug\Home.DB.dll
+C:\mysteap\work_office\ProjectOut\住宅报告工具升级\SCHomeReport\Home.DB\obj\Debug\Home.DB.pdb
+C:\mysteap\work_office\ProjectOut\住宅报告工具升级\SCHomeReport\Home.DB\obj\Debug\Home.DB.csprojResolveAssemblyReference.cache
